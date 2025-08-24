@@ -50,9 +50,8 @@ This workshop is designed to provide hands-on experience in:
 ---
 
 ## 📂 Repository Structure  
-- **hardware/** → Microcontroller code & circuit diagrams
-- **backend/** → API development (Node.js / Python Flask)
 - **frontend/** → Web dashboard (React / HTML-CSS-JS)
+- **backend/** → API development (Node.js / Python Flask)
 - **database/** → SQL/NoSQL scripts for sensor data
 - **docs/** → Workshop slides & reference materials
 
