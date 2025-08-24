@@ -1,5 +1,6 @@
 # 🚀 Full Stack IoT Workshop  
-![Full Stack IoT Workshop Banner](https://your-image-link.com/banner.png)
+
+![Full Stack IoT Development](Full%20Stack%20IoT%20Development.png)  
 
 Welcome to the **Full Stack IoT Workshop** repository!  
 This repo contains all the resources, code, and examples to help you learn and build **end-to-end IoT solutions** – from devices to dashboards.  
