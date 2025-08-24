@@ -13,6 +13,7 @@ This repo contains all the resources, code, and examples to help you learn and b
 ![Certificate](https://img.shields.io/badge/Certificate-Available-brightgreen)
 
 #### Tech Stack
+
 ![Arduino](https://img.shields.io/badge/Arduino-blue) 
 ![ESP32](https://img.shields.io/badge/ESP32-lightgrey) 
 ![Node.js](https://img.shields.io/badge/Node.js-green) 
@@ -20,6 +21,18 @@ This repo contains all the resources, code, and examples to help you learn and b
 ![React](https://img.shields.io/badge/React-blueviolet) 
 ![MySQL](https://img.shields.io/badge/MySQL-darkblue) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen) 
+
+## 🛠️ Skills & Tools
+
+  ![HTML](https://img.shields.io/badge/HTML-Advanced-orange) 
+  ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellowgreen) 
+  ![Figma](https://img.shields.io/badge/Figma-Intermediate-purple) 
+  ![React](https://img.shields.io/badge/React-Intermediate-blueviolet) 
+  ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green) 
+  ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-black) 
+  ![ThingSpeak](https://img.shields.io/badge/ThingSpeak-Beginner-lightgrey) 
+  ![Blynk](https://img.shields.io/badge/Blynk-Beginner-lightblue)
 
 #### Status
 ![Workshop](https://img.shields.io/badge/Workshop-InProgress-orange) 
