@@ -16,8 +16,9 @@ This repo contains all the resources, code, and examples to help you learn and b
 
 ![Arduino](https://img.shields.io/badge/Arduino-blue) 
 ![ESP32](https://img.shields.io/badge/ESP32-lightgrey) 
+![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-forestgreen)
 ![Node.js](https://img.shields.io/badge/Node.js-green) 
-![Python](https://img.shields.io/badge/Python-blue) 
+![Python](https://img.shields.io/badge/Python-brown) 
 ![React](https://img.shields.io/badge/React-blueviolet) 
 ![MySQL](https://img.shields.io/badge/MySQL-darkblue) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-brightgreen) 
