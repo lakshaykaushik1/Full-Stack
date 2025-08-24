@@ -10,6 +10,7 @@ This repo contains all the resources, code, and examples to help you learn and b
 ![Beginner](https://img.shields.io/badge/Skill-Beginner-red) 
 ![Intermediate](https://img.shields.io/badge/Skill-Intermediate-yellow) 
 ![Advanced](https://img.shields.io/badge/Skill-Advanced-brightgreen)
+![Certificate](https://img.shields.io/badge/Certificate-Available-brightgreen)
 
 #### Tech Stack
 ![Arduino](https://img.shields.io/badge/Arduino-blue) 
