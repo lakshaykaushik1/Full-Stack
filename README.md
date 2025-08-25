@@ -49,6 +49,11 @@ This workshop is designed to provide hands-on experience in:
 - Deploying full-stack IoT applications  
 
 ---
+## Roadmap to FullStack
+
+[📄 View Roadmap to Full Stack (PDF)](./Road%20map%20to%20Full%20Stack.pdf)
+
+---
 
 ## 📂 Repository Structure  
 - **frontend/** → Web dashboard (React / HTML-CSS-JS)
