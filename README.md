@@ -55,14 +55,6 @@ This workshop is designed to provide hands-on experience in:
 
 ---
 
-## 📂 Repository Structure  
-- **frontend/** → Web dashboard (React / HTML-CSS-JS)
-- **backend/** → API development (Node.js / Python Flask)
-- **database/** → SQL/NoSQL scripts for sensor data
-- **docs/** → Workshop slides & reference materials
-
----
-
 ## 🛠️ Tech Stack  
 - **Hardware**: Arduino / ESP32  
 - **Backend**: Node.js / Python Flask  
